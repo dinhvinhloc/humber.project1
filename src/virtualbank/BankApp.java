@@ -9,7 +9,7 @@ public class BankApp {
 		String[] lastName = { "Lira", "Clinton", "Daniel", "Fanning", "Stone", "Potter", "Lawrence", "Walker", "Ronald",
 				"Matthew" };
 		String[] firstName = { "James", "Mary", "John", "Robert", "Jennifer", "Gonzalez", "Karen", "Anthony", "Ashley",
-				"Steven" };
+				"Buckley" };
 
 		Scanner input = new Scanner(System.in);
 		input.useDelimiter("\n");
@@ -101,4 +101,4 @@ public class BankApp {
 		input.close();
 	}
 
-}// end of class
+}
